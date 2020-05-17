@@ -1,0 +1,7 @@
+/.git
+package.json
+**/node_modules
+coverage
+.circleci
+.test
+serviceWorker.js
