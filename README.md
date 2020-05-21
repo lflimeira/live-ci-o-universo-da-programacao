@@ -1,3 +1,9 @@
+> live code for [O Universo da Programação](https://www.youtube.com/channel/UCWrqsnPLl6aRX0ECUmPaZEw)
+
+Full vídeo: [Como funciona esse negócio de continuous integration (CI)?](https://www.youtube.com/embed/CNz82Je7w8k)
+
+---
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
